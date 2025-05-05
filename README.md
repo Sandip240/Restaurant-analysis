@@ -1,2 +1,2 @@
-# Restraurant-analysis
-power bi dashbord of Restraurant analysis
+# Restaurant-analysis
+power bi dashbord of Restaurant analysis
